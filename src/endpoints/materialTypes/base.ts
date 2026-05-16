@@ -6,7 +6,7 @@ export const task = z.object({
 	description: z.string()
 });
 
-export const TaskModel = {
+export const MaterialTypeModel = {
 	tableName: "MaterialType",
 	primaryKeys: ["id"],
 	schema: MaterialType,
