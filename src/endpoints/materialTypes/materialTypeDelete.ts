@@ -2,7 +2,7 @@
 import { HandleArgs } from "../../types";
 import { MaterialTypeModel } from "./base";
 
-export class TaskDelete extends D1DeleteEndpoint<HandleArgs> {
+export class MaterialTypeDelete extends D1DeleteEndpoint<HandleArgs> {
 	_meta = {
 		model: MaterialTypeModel,
 	};

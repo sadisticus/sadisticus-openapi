@@ -1,6 +1,7 @@
 import { ApiException, fromHono } from "chanfana";
 import { Hono } from "hono";
 import { tasksRouter } from "./endpoints/tasks/router";
+import { materialTypeRouter } from "./endpoints/materialTypes/router";
 import { ContentfulStatusCode } from "hono/utils/http-status";
 import { DummyEndpoint } from "./endpoints/dummyEndpoint";
 
@@ -42,6 +43,7 @@ const openapi = fromHono(app, {
 
 // Register Tasks Sub router
 openapi.route("/tasks", tasksRouter);
+openapi.route("/materialTypes", materialTypeRouter); // Just reusing the same router for demo purposes, but you can create a separate one for material types
 
 // Register other endpoints
 openapi.post("/dummy/:slug", DummyEndpoint);
