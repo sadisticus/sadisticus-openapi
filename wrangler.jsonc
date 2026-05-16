@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "sadisticus-openapi",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "materialDb",
+			"database_id": "9fba1f7f-224f-4907-b2f9-80d6f6b3ed9b"
+		}
+	]
+}
