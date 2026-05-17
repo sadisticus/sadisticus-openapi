@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\endpoints",
+    "\\src\\endpoints\\materialTypes",
+    "\\tests\\integration"
+  ],
+  "SelectedNode": "\\src\\endpoints\\materialTypes",
+  "PreviewInSolutionExplorer": false
+}

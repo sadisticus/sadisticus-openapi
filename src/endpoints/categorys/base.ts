@@ -1,20 +1,21 @@
 ﻿import { z } from "zod";
 
-export const MaterialType = z.object({
+export const Category = z.object({
 	id: z.number().int(),
+    material_type_id: z.number().int(),
 	name: z.string(),
 	description: z.string()
 });
 
-export const MaterialTypeModel = {
-	tableName: "MaterialType",
+export const CategoryModel = {
+	tableName: "Category",
 	primaryKeys: ["id"],
-	schema: MaterialType,
+	schema: Category,
 	serializer: (obj: Record<string, string | number | boolean>) => {
 		return {
 			...obj,
 			completed: Boolean(obj.completed),
 		};
 	},
-	serializerObject: MaterialType,
+	serializerObject: Category,
 };
