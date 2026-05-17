@@ -2,7 +2,7 @@
 
 export const Category = z.object({
 	id: z.number().int(),
-    material_type_id: z.number().int(),
+	MaterialTypeId: z.number().int(),
 	name: z.string(),
 	description: z.string()
 });
