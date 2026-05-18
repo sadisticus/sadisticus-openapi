@@ -48,6 +48,7 @@ openapi.route("/tasks", tasksRouter);
 openapi.route("/materialTypes", materialTypeRouter); // Just reusing the same router for demo purposes, but you can create a separate one for material types
 openapi.route("/categorys", categoryRouter);
 openapi.route("/suppliers", supplierRouter);
+openapi.route("/materials", materialRouter);
 // Register other endpoints
 openapi.post("/dummy/:slug", DummyEndpoint);
 
