@@ -11,11 +11,5 @@ export const CategoryModel = {
 	tableName: "Category",
 	primaryKeys: ["id"],
 	schema: Category,
-	serializer: (obj: Record<string, string | number | boolean>) => {
-		return {
-			...obj,
-			completed: Boolean(obj.completed),
-		};
-	},
 	serializerObject: Category,
 };

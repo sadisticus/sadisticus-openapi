@@ -3,9 +3,8 @@
     "",
     "\\src",
     "\\src\\endpoints",
-    "\\src\\endpoints\\materialTypes",
-    "\\tests\\integration"
+    "\\src\\endpoints\\categorys"
   ],
-  "SelectedNode": "\\src\\endpoints\\materialTypes",
+  "SelectedNode": "\\src\\endpoints\\categorys\\categoryCreate.ts",
   "PreviewInSolutionExplorer": false
 }

@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\categoryRead.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\categorys\\categoryRead.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\suppliers\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materialTypes\\materialTypeRead.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\materialTypes\\materialTypeRead.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierUpdate.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\suppliers\\supplierUpdate.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\categoryList.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\categorys\\categoryList.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierCreate.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\suppliers\\supplierCreate.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\categoryCreate.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\categorys\\categoryCreate.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierDelete.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\suppliers\\supplierDelete.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\categoryDelete.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\categorys\\categoryDelete.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierList.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\suppliers\\supplierList.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\base.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\categorys\\base.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierRead.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\suppliers\\supplierRead.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materialTypes\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\materialTypes\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\categorys\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\base.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\suppliers\\base.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,92 +51,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "categoryRead.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\categoryRead.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\categorys\\categoryRead.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\categoryRead.ts",
-              "RelativeToolTip": "src\\endpoints\\categorys\\categoryRead.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Title": "router.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\router.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\suppliers\\router.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\router.ts",
+              "RelativeToolTip": "src\\endpoints\\suppliers\\router.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-17T02:04:12.867Z",
+              "WhenOpened": "2026-05-18T04:37:41.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "materialTypeRead.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materialTypes\\materialTypeRead.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\materialTypes\\materialTypeRead.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materialTypes\\materialTypeRead.ts",
-              "RelativeToolTip": "src\\endpoints\\materialTypes\\materialTypeRead.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Title": "supplierUpdate.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierUpdate.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\suppliers\\supplierUpdate.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierUpdate.ts",
+              "RelativeToolTip": "src\\endpoints\\suppliers\\supplierUpdate.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-17T02:03:48.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "categoryDelete.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\categoryDelete.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\categorys\\categoryDelete.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\categoryDelete.ts",
-              "RelativeToolTip": "src\\endpoints\\categorys\\categoryDelete.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-17T02:01:33.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "categoryCreate.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\categoryCreate.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\categorys\\categoryCreate.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\categoryCreate.ts",
-              "RelativeToolTip": "src\\endpoints\\categorys\\categoryCreate.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-17T01:58:30.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "categoryList.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\categoryList.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\categorys\\categoryList.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\categoryList.ts",
-              "RelativeToolTip": "src\\endpoints\\categorys\\categoryList.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-17T01:56:49.44Z",
+              "WhenOpened": "2026-05-18T04:36:33.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "base.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\base.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\categorys\\base.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\base.ts",
-              "RelativeToolTip": "src\\endpoints\\categorys\\base.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Title": "supplierRead.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierRead.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\suppliers\\supplierRead.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierRead.ts",
+              "RelativeToolTip": "src\\endpoints\\suppliers\\supplierRead.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-17T01:52:41.818Z",
+              "WhenOpened": "2026-05-18T04:35:30.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "supplierList.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierList.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\suppliers\\supplierList.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierList.ts",
+              "RelativeToolTip": "src\\endpoints\\suppliers\\supplierList.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-18T04:33:43.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "supplierDelete.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierDelete.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\suppliers\\supplierDelete.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierDelete.ts",
+              "RelativeToolTip": "src\\endpoints\\suppliers\\supplierDelete.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-18T04:32:29.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "supplierCreate.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierCreate.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\suppliers\\supplierCreate.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\supplierCreate.ts",
+              "RelativeToolTip": "src\\endpoints\\suppliers\\supplierCreate.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-18T04:30:28.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "base.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\base.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\suppliers\\base.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\base.ts",
+              "RelativeToolTip": "src\\endpoints\\suppliers\\base.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-18T04:23:55.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\index.ts",
+              "RelativeDocumentMoniker": "src\\index.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\index.ts",
+              "RelativeToolTip": "src\\index.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-17T02:10:03.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "router.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materialTypes\\router.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\materialTypes\\router.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materialTypes\\router.ts",
-              "RelativeToolTip": "src\\endpoints\\materialTypes\\router.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\router.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\categorys\\router.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\router.ts",
+              "RelativeToolTip": "src\\endpoints\\categorys\\router.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-17T01:51:38.51Z",
+              "WhenOpened": "2026-05-17T02:06:39.021Z",
               "EditorCaption": ""
             }
           ]
