@@ -9,7 +9,7 @@ import { materialRouter } from "../materials/router";
 
 export const voyageRouter = fromHono(new Hono());
 
-materialRouter.get("/", VoyageList);
+voyageRouter.get("/", VoyageList);
 voyageRouter.post("/", VoyageCreate);
 voyageRouter.get("/:id", VoyageRead);
 voyageRouter.put("/:id", VoyageUpdate);
