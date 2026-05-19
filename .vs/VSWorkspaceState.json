@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\endpoints",
-    "\\src\\endpoints\\categorys"
+    "\\src\\endpoints"
   ],
-  "SelectedNode": "\\src\\endpoints\\categorys\\categoryCreate.ts",
+  "SelectedNode": "\\src\\endpoints\\voyages",
   "PreviewInSolutionExplorer": false
 }

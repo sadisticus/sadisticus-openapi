@@ -6,7 +6,7 @@ export class CategoryUpdate extends D1UpdateEndpoint<HandleArgs> {
 	_meta = {
 		model: CategoryModel,
 		fields: CategoryModel.schema.pick({
-            material_type_id: true,
+            MaterialTypeId: true,
 			name: true,
 			description: true,
 		}),

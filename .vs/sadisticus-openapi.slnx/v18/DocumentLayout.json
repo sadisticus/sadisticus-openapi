@@ -3,44 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageUpdate.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\voyages\\voyageUpdate.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\voyages\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageRead.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\voyages\\voyageRead.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageList.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\voyages\\voyageList.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\materials\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\suppliers\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageDelete.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\voyages\\voyageDelete.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialUpdate.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\materials\\materialUpdate.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageCreate.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\voyages\\voyageCreate.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialRead.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\materials\\materialRead.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\base.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\voyages\\base.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialList.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\materials\\materialList.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialDelete.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\materials\\materialDelete.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialCreate.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\materials\\materialCreate.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\base.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\materials\\base.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\endpoints\\categorys\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,140 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "router.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\router.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\voyages\\router.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\router.ts",
+              "RelativeToolTip": "src\\endpoints\\voyages\\router.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-19T07:08:03.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "voyageUpdate.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageUpdate.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\voyages\\voyageUpdate.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageUpdate.ts",
+              "RelativeToolTip": "src\\endpoints\\voyages\\voyageUpdate.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-19T07:06:08.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "voyageRead.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageRead.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\voyages\\voyageRead.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageRead.ts",
+              "RelativeToolTip": "src\\endpoints\\voyages\\voyageRead.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-19T07:04:56.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "voyageList.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageList.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\voyages\\voyageList.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageList.ts",
+              "RelativeToolTip": "src\\endpoints\\voyages\\voyageList.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-19T07:02:21.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "voyageDelete.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageDelete.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\voyages\\voyageDelete.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageDelete.ts",
+              "RelativeToolTip": "src\\endpoints\\voyages\\voyageDelete.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-19T06:58:38.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "voyageCreate.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageCreate.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\voyages\\voyageCreate.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\voyageCreate.ts",
+              "RelativeToolTip": "src\\endpoints\\voyages\\voyageCreate.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-19T06:51:34.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "base.ts",
+              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\base.ts",
+              "RelativeDocumentMoniker": "src\\endpoints\\voyages\\base.ts",
+              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\voyages\\base.ts",
+              "RelativeToolTip": "src\\endpoints\\voyages\\base.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-19T06:46:12.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "router.ts",
               "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\router.ts",
               "RelativeDocumentMoniker": "src\\endpoints\\materials\\router.ts",
               "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\router.ts",
               "RelativeToolTip": "src\\endpoints\\materials\\router.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-05-18T10:10:11.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "materialUpdate.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialUpdate.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\materials\\materialUpdate.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialUpdate.ts",
-              "RelativeToolTip": "src\\endpoints\\materials\\materialUpdate.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-18T10:08:43.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "materialRead.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialRead.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\materials\\materialRead.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialRead.ts",
-              "RelativeToolTip": "src\\endpoints\\materials\\materialRead.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-18T10:06:53.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "materialList.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialList.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\materials\\materialList.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialList.ts",
-              "RelativeToolTip": "src\\endpoints\\materials\\materialList.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-18T10:05:48.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "materialDelete.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialDelete.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\materials\\materialDelete.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialDelete.ts",
-              "RelativeToolTip": "src\\endpoints\\materials\\materialDelete.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-18T10:02:42.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "materialCreate.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialCreate.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\materials\\materialCreate.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\materialCreate.ts",
-              "RelativeToolTip": "src\\endpoints\\materials\\materialCreate.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-18T09:59:28.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "base.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\base.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\materials\\base.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\materials\\base.ts",
-              "RelativeToolTip": "src\\endpoints\\materials\\base.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-18T09:50:32.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "router.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\router.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\suppliers\\router.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\suppliers\\router.ts",
-              "RelativeToolTip": "src\\endpoints\\suppliers\\router.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-18T04:37:41.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "index.ts",
               "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\index.ts",
               "RelativeDocumentMoniker": "src\\index.ts",
               "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\index.ts",
               "RelativeToolTip": "src\\index.ts",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwB0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-05-17T02:10:03.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "router.ts",
-              "DocumentMoniker": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\router.ts",
-              "RelativeDocumentMoniker": "src\\endpoints\\categorys\\router.ts",
-              "ToolTip": "C:\\Users\\and_j\\source\\repos\\sadisticus\\sadisticus-openapi\\src\\endpoints\\categorys\\router.ts",
-              "RelativeToolTip": "src\\endpoints\\categorys\\router.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-05-17T02:06:39.021Z",
               "EditorCaption": ""
             }
           ]

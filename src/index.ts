@@ -4,7 +4,9 @@ import { tasksRouter } from "./endpoints/tasks/router";
 import { materialTypeRouter } from "./endpoints/materialTypes/router";
 import { categoryRouter } from "./endpoints/categorys/router";
 import { supplierRouter } from "./endpoints/suppliers/router";
+import { materialRouter } from "./endpoints/materials/router";
 import { ContentfulStatusCode } from "hono/utils/http-status";
+import { voyageRouter } from "./endpoints/voyages/router";
 import { DummyEndpoint } from "./endpoints/dummyEndpoint";
 
 // Start a Hono app
@@ -49,6 +51,8 @@ openapi.route("/materialTypes", materialTypeRouter); // Just reusing the same ro
 openapi.route("/categorys", categoryRouter);
 openapi.route("/suppliers", supplierRouter);
 openapi.route("/materials", materialRouter);
+openapi.route("/voyages", voyageRouter);
+
 // Register other endpoints
 openapi.post("/dummy/:slug", DummyEndpoint);
 
