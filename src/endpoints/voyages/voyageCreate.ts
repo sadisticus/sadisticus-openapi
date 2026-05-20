@@ -1,6 +1,7 @@
 ﻿import { D1CreateEndpoint } from "chanfana";
 import { HandleArgs } from "../../types";
 import { VoyageModel } from "./base";
+import { z } from "zod";
 
 export class VoyageCreate extends D1CreateEndpoint<HandleArgs> {
     _meta = {
@@ -15,5 +16,14 @@ export class VoyageCreate extends D1CreateEndpoint<HandleArgs> {
             ArrivedDate: true,
         }),
     };
-}
 
+    // ⭐ THIS FIXES THE D1 datetime error
+    transform(data: z.infer<typeof VoyageModel.schema>) {
+        return {
+            ...data,
+            DueDate: data.DueDate.toISOString(),
+            VesselETA: data.VesselETA.toISOString(),
+            ArrivedDate: data.ArrivedDate ? data.ArrivedDate.toISOString() : null,
+        };
+    }
+}
