@@ -1,7 +1,10 @@
 ﻿import { D1CreateEndpoint } from "chanfana";
 import { HandleArgs } from "../../types";
-import { VoyageModel } from "./base";
-import { z } from "zod";
+import { VoyageModel, Voyage } from "./base";
+import type { z } from "zod";
+
+// Infer the Zod input type
+type VoyageInput = z.infer<typeof Voyage>;
 
 export class VoyageCreate extends D1CreateEndpoint<HandleArgs> {
     _meta = {
@@ -17,13 +20,16 @@ export class VoyageCreate extends D1CreateEndpoint<HandleArgs> {
         }),
     };
 
-    // ⭐ THIS FIXES THE D1 datetime error
-    transform(data: z.infer<typeof VoyageModel.schema>) {
+    // ⭐ Correct hook — do NOT type "c"
+    async beforeCreate(data: VoyageInput, c: any) {
         return {
             ...data,
             DueDate: data.DueDate.toISOString(),
             VesselETA: data.VesselETA.toISOString(),
-            ArrivedDate: data.ArrivedDate ? data.ArrivedDate.toISOString() : null,
+            ArrivedDate: data.ArrivedDate
+                ? data.ArrivedDate.toISOString()
+                : null,
         };
     }
 }
+
