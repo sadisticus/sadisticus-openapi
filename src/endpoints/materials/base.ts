@@ -7,7 +7,7 @@ export const Material = z.object({
 	SupplierId: z.number().int(),
 	ref: z.string(),
 	name: z.string(),
-	description: z.string(),
+	decription: z.string(),
 	balance: z.number(),
 	MinBalance: z.number()
 });

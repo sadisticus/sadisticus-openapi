@@ -11,7 +11,7 @@ export class MaterialCreate extends D1CreateEndpoint<HandleArgs> {
 			CategoryId: true,
             SupplierId: true,
 			name: true,
-			description: true,
+			decription: true,
 			balance: true,
             MinBalance: true,
 		}),
