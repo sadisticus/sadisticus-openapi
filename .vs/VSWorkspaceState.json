@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\endpoints"
+    "\\src\\endpoints",
+    "\\src\\endpoints\\materials"
   ],
   "PreviewInSolutionExplorer": false
 }
