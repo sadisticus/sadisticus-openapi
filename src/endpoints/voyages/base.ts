@@ -7,9 +7,9 @@ export const Voyage = z.object({
     MaterialId: z.number().int(),
     Vessel: z.string(),
     PONumber: z.number().int(),
-    DueDate: z.coerce.date().openapi({format: "date-time"}),
-    VesselETA: z.coerce.date().openapi({format: "date-time"}),
-    ArrivedDate: z.coerce.date().nullable().openapi({format: "date-time"}),
+    DueDate: z.string().datetime().openapi({ format: "date-time" }),
+    VesselETA: z.string().nullable().openapi({ format: "date-time" }),
+    ArrivedDate: z.string().nullable().openapi({ format: "date-time" }),
 });
 
 export const VoyageModel = {
