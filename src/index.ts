@@ -52,6 +52,7 @@ openapi.route("/categorys", categoryRouter);
 openapi.route("/suppliers", supplierRouter);
 openapi.route("/materials", materialRouter);
 openapi.route("/voyages", voyageRouter);
+openapi.route("/manifests", manifestRouter);
 
 // Register other endpoints
 openapi.post("/dummy/:slug", DummyEndpoint);
