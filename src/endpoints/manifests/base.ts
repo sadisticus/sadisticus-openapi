@@ -6,7 +6,7 @@ export const Manifest = z.object({
     VoyageId: z.number().int(),
     ContainerNumber: z.string(),
     Quantity: z.number(),
-    ReceivedDate: z.coerce.date().nullable().openapi({ format: "date-time" }),
+    ReceivedDate: z.string().nullable().openapi({ format: "date-time" }),
 });
 
 export const ManifestModel = {
