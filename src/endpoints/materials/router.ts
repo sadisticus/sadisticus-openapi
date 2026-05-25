@@ -5,7 +5,6 @@ import { MaterialCreate } from "./materialCreate";
 import { MaterialRead } from "./materialRead";
 import { MaterialUpdate } from "./materialUpdate";
 import { MaterialDelete } from "./materialDelete";
-import { Material } from "./base";
 
 export const materialRouter = fromHono(new Hono());
 

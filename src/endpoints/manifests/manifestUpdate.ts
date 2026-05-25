@@ -8,6 +8,7 @@ export class ManifestUpdate extends D1UpdateEndpoint<HandleArgs> {
         fields: ManifestModel.schema.pick({
             VoyageId: true,
             ContainerNumber: true,
+            Quantity: true,
             ReceivedDate: true,
         }),
     };

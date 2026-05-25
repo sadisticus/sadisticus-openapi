@@ -10,6 +10,7 @@ export class ManifestCreate extends D1CreateEndpoint<HandleArgs> {
         fields: ManifestModel.schema.pick({
             VoyageId: true,
             ContainerNumber: true,
+            Quantity: true,
             ReceivedDate: true,
         }),
     };

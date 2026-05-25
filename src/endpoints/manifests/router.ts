@@ -5,7 +5,6 @@ import { ManifestCreate } from "./manifestCreate";
 import { ManifestRead } from "./manifestRead";
 import { ManifestUpdate } from "./manifestUpdate";
 import { ManifestDelete } from "./manifestDelete";
-import { Manifest } from "./base";
 
 export const manifestRouter = fromHono(new Hono());
 
