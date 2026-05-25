@@ -7,7 +7,8 @@ import { supplierRouter } from "./endpoints/suppliers/router";
 import { materialRouter } from "./endpoints/materials/router";
 import { ContentfulStatusCode } from "hono/utils/http-status";
 import { voyageRouter } from "./endpoints/voyages/router";
-import { DummyEndpoint } from "./endpoints/dummyEndpoint";
+import { manifestRouter } from "./endpoints/manifests/router";
+// import { DummyEndpoint } from "./endpoints/dummyEndpoint";
 
 // Start a Hono app
 const app = new Hono<{ Bindings: Env }>();
@@ -55,7 +56,7 @@ openapi.route("/voyages", voyageRouter);
 openapi.route("/manifests", manifestRouter);
 
 // Register other endpoints
-openapi.post("/dummy/:slug", DummyEndpoint);
+// openapi.post("/dummy/:slug", DummyEndpoint);
 
 // Export the Hono app
 export default app;
