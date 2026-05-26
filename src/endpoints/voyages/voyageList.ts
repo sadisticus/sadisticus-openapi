@@ -9,4 +9,19 @@ export class VoyageList extends D1ListEndpoint<HandleArgs> {
 
 	searchFields = ["PONumber", "vessel"];
 	defaultOrderBy = "PONumber DESC";
+
+	filters = {
+		SupplierId: {
+			column: "SupplierId",
+			operator: "=",
+		},
+		MaterialId: {
+			column: "MaterialId",
+			operator: "=",
+		},
+		vessel: {
+			column: "Vessel",
+			operator: "LIKE",
+		}
+    };
 }

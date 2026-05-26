@@ -9,4 +9,24 @@ export class ManifestList extends D1ListEndpoint<HandleArgs> {
 
     searchFields = ["ContainerNumber"];
     defaultOrderBy = "ContainerNumber DESC";
+
+    filters = {
+        VoyageId: {
+            column: "VoyageId",
+            operator: "=",
+        },
+        ContainerNumber: {
+            column: "ContainerNumber",
+            operator: "LIKE",
+        },
+        fromDate: {
+            column: "ReceivedDate",
+            operator: ">=",
+        },
+        toDate: {
+            column: "ReceivedDate",
+            operator: "<=",
+        }
+    };
+
 }

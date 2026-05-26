@@ -24,11 +24,9 @@ export class VoyageCreate extends D1CreateEndpoint<HandleArgs> {
     async beforeCreate(data: VoyageInput, c: any) {
         return {
             ...data,
-            DueDate: data.DueDate.toISOString(),
-            VesselETA: data.VesselETA.toISOString(),
-            ArrivedDate: data.ArrivedDate
-                ? data.ArrivedDate.toISOString()
-                : null,
+            DueDate: data.DueDate,
+            VesselETA: data.VesselETA ?? null,
+            ArrivedDate: data.ArrivedDate ?? null,
         };
     }
 }
