@@ -18,9 +18,7 @@ export class ManifestCreate extends D1CreateEndpoint<HandleArgs> {
     async beforeCreate(data: ManifestInput, c: any) {
         return {
             ...data,
-            ReceivedDate: data.ReceivedDate
-                ? data.ReceivedDate.toISOString()
-                : null,
+            ReceivedDate: data.ReceivedDate ?? null,
         };
     }
 }
