@@ -39,9 +39,9 @@ const openapi = fromHono(app, {
 	docs_url: "/",
 	schema: {
 		info: {
-			title: "My Awesome API",
+			title: "Container Tracker Api",
 			version: "2.0.0",
-			description: "This is the documentation for my awesome API.",
+			description: "This is the documentation for my Container Tracker API.",
 		},
 	},
 });
