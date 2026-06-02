@@ -8,9 +8,9 @@ import { ManifestDelete } from "./manifestDelete";
 
 export const manifestRouter = fromHono(new Hono());
 
-manifestRouter.get("/",(c) => new ManifestList(c));
-manifestRouter.post("/", (c) => new ManifestCreate(c));
-manifestRouter.get("/:id", (c) => new ManifestRead(c));
-manifestRouter.put("/:id", (c) => new ManifestUpdate(c));
-manifestRouter.delete("/:id", (c) => new ManifestDelete(c));
+manifestRouter.get("/", ManifestList);
+manifestRouter.post("/", ManifestCreate);
+manifestRouter.get("/:id", ManifestRead);
+manifestRouter.put("/:id", ManifestUpdate);
+manifestRouter.delete("/:id", ManifestDelete);
 
