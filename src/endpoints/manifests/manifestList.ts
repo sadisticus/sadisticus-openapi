@@ -18,11 +18,11 @@ export class ManifestList extends D1ListEndpoint<HandleArgs> {
     defaultOrderBy = "ContainerNumber DESC";
 
     filters = {
-        voyageId: {
+        voyageid: {
             column: "VoyageId",
             operator: "=",
         },
-        containerNumber: {
+        containernumber: {
             column: "ContainerNumber",
             operator: "LIKE",
         },
