@@ -7,6 +7,6 @@ export class MaterialTypeList extends D1ListEndpoint<HandleArgs> {
 		model: MaterialTypeModel,
 	};
 
-	searchFields = ["name", "slug", "description"];
-	defaultOrderBy = "id DESC";
+	searchFields = ["name", "description"];
+	defaultOrderBy = "name ASC";
 }

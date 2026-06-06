@@ -10,11 +10,6 @@ export const MaterialTypeModel = {
 	tableName: "MaterialType",
 	primaryKeys: ["id"],
 	schema: MaterialType,
-	serializer: (obj: Record<string, string | number | boolean>) => {
-		return {
-			...obj,
-			completed: Boolean(obj.completed),
-		};
-	},
+	
 	serializerObject: MaterialType,
 };

@@ -8,32 +8,9 @@ export class ManifestList extends D1ListEndpoint<HandleArgs> {
         model: ManifestModel,
     };
 
-    // Override default pagination schema
-    querySchema = z.object({
-        page: z.number().default(1),
-        per_page: z.number().max(500).default(100),
-    });
 
     searchFields = ["ContainerNumber"];
     defaultOrderBy = "ContainerNumber DESC";
-
-    filters = {
-        voyageId: {
-            column: "VoyageId",
-            operator: "=",
-        },
-        containerNumber: {
-            column: "ContainerNumber",
-            operator: "LIKE",
-        },
-        fromDate: {
-            column: "ReceivedDate",
-            operator: ">=",
-        },
-        toDate: {
-            column: "ReceivedDate",
-            operator: "<=",
-        }
-    };
+    filterFields = ["VoyageId"];
 
 }
