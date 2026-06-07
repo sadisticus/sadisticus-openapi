@@ -9,19 +9,15 @@ export class VoyageList extends D1ListEndpoint<HandleArgs> {
 
 	searchFields = ["PONumber", "vessel"];
 	defaultOrderBy = "PONumber DESC";
-
+    filterFields = ["SupplierId", "MaterialId", "fromDate", "toDate"];
 	filters = {
-		SupplierId: {
-			column: "SupplierId",
-			operator: "=",
+		fromDate: {
+			column: "ArrivedDate",
+			operator: ">="
 		},
-		MaterialId: {
-			column: "MaterialId",
-			operator: "=",
-		},
-		vessel: {
-			column: "Vessel",
-			operator: "LIKE",
+		toDate: {
+			column: "ArrivedDate",
+			operator: "<="
 		}
     };
 }
