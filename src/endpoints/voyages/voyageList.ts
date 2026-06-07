@@ -19,12 +19,12 @@ export class VoyageList extends D1ListEndpoint<HandleArgs> {
 			column: "MaterialId",
 			operator: "="
         },
-		fromDate: {
-			column: "datetime(ArrivedDate)",
+		fromdate: {
+			column: "ArrivedDate",
 			operator: ">="
 		},
-		toDate: {
-			column: "datetime(ArrivedDate)",
+		todate: {
+			column: "ArrivedDate",
 			operator: "<="
 		}
     };
