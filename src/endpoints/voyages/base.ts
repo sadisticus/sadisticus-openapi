@@ -1,8 +1,9 @@
 ﻿import { ref } from "process";
 import { z } from "zod"; 
+import { id } from "zod/v4/locales";
 
 export const Voyage = z.object({
-    id: z.number().int(),
+    Id: z.number().int(),
     SupplierId: z.number().int(),
     MaterialId: z.number().int(),
     Vessel: z.string(),
@@ -14,7 +15,7 @@ export const Voyage = z.object({
 
 export const VoyageModel = {
     tableName: "Voyage",
-    primaryKeys: ["id"],
+    primaryKeys: ["Id"],
     schema: Voyage,
     serializerObject: Voyage,
 };
