@@ -4,8 +4,9 @@
     "\\src",
     "\\src\\endpoints",
     "\\src\\endpoints\\manifests",
-    "\\src\\endpoints\\voyages"
+    "\\src\\endpoints\\materialTypes",
+    "\\src\\endpoints\\tasks"
   ],
-  "SelectedNode": "\\src\\endpoints\\manifests\\router.ts",
+  "SelectedNode": "\\src\\endpoints\\manifests\\manifestList.ts",
   "PreviewInSolutionExplorer": false
 }

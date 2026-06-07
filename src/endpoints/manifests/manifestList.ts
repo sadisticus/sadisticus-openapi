@@ -13,4 +13,14 @@ export class ManifestList extends D1ListEndpoint<HandleArgs> {
     defaultOrderBy = "ContainerNumber DESC";
     filterFields = ["VoyageId"];
 
+    filters = {
+        fromDate: {
+            column: "ReceivedDate",
+            operator: ">="
+        },
+        toDate: {
+            column: "ReceivedDate",
+            operator: "<="
+        },
+    };
 }
