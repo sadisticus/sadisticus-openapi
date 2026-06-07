@@ -14,9 +14,10 @@ export class VoyageList extends D1ListEndpoint<HandleArgs> {
     filterFields = ["SupplierId", "MaterialId"];
 
     async list(args: HandleArgs) {
-        console.log("DB binding:", c.env.DB);
+        
 
         const [c] = args;
+        console.log("DB binding:", c.env.DB);
 		const db = c.env.DB;
 		const q = c.req.query();
 
