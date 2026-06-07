@@ -20,12 +20,14 @@ export class VoyageList extends D1ListEndpoint<HandleArgs> {
 			operator: "="
         },
 		fromdate: {
-			column: "ArrivedDate",
-			operator: ">="
+			column: "datetime(ArrivedDate)",
+			operator: ">=",
+			valueMapper: (v) => `datetime('${v}T00:00:00Z')`
 		},
 		todate: {
-			column: "ArrivedDate",
-			operator: "<="
+			column: "datetime(ArrivedDate)",
+			operator: "<=",
+			valueMapper: (v) => `datetime('${v}T23:59:59Z')`
 		}
     };
 }
