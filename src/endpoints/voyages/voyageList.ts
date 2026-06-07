@@ -9,25 +9,18 @@ export class VoyageList extends D1ListEndpoint<HandleArgs> {
 
 	searchFields = ["PONumber", "vessel"];
 	defaultOrderBy = "PONumber DESC";
-    //filterFields = ["SupplierId", "MaterialId"];
+    filterFields = ["SupplierId", "MaterialId", "ArrivedDate"];
 	filters = {
-		SupplierId: {
-			column: "SupplierId",
-            operator: "="
-		},
-		MaterialId: {
-			column: "MaterialId",
-			operator: "="
-        },
+		
 		fromdate: {
-			column: "datetime(ArrivedDate)",
+			column: "ArrivedDate",
 			operator: ">=",
-			valueMapper: (v) => `datetime('${v}T00:00:00Z')`
+			valueMapper: (v: any) => `datetime('${v}T00:00:00Z')`
 		},
 		todate: {
-			column: "datetime(ArrivedDate)",
+			column: "ArrivedDate",
 			operator: "<=",
-			valueMapper: (v) => `datetime('${v}T23:59:59Z')`
+			valueMapper: (v: any) => `datetime('${v}T23:59:59Z')`
 		}
     };
 }
