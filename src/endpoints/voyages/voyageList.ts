@@ -20,11 +20,11 @@ export class VoyageList extends D1ListEndpoint<HandleArgs> {
 			operator: "="
         },
 		fromDate: {
-			column: "ArrivedDate",
+			column: "datetime(ArrivedDate)",
 			operator: ">="
 		},
 		toDate: {
-			column: "ArrivedDate",
+			column: "datetime(ArrivedDate)",
 			operator: "<="
 		}
     };
