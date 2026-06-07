@@ -13,7 +13,8 @@ export class VoyageList extends D1ListEndpoint<HandleArgs> {
     // only use filterFields for equality filters, not for range filters (e.g. DueDate > 2024-01-01)
     filterFields = ["SupplierId", "MaterialId"];
 
-	async list([c]: HandleArgs) {
+    async list(args: HandleArgs) {
+        const [c] = args;
 		const db = c.env.DB;
 		const q = c.req.query();
 
