@@ -17,14 +17,14 @@ export class VoyageList extends D1ListEndpoint<HandleArgs> {
         
 
         const [c] = args;
-        console.log("DB binding:", c.env.DB);
+        //console.log("DB binding:", c.env.DB);
 		const db = c.env.DB;
 		const q = c.req.query();
 
-		const SupplierId = q.SupplerId;
+		const SupplierId = q.SupplierId;
 		const MaterialId = q.MaterialId;
-		const fromdate = q.fromDate;
-		const todate = q.toDate;
+		const fromdate = q.fromdate;
+		const todate = q.todate;
 
 		let sql = 'SELECT * FROM Voyage WHERE 1=1';
 		const params: any[] = [];
